@@ -1,3 +1,3 @@
-[submodule "metamodule-nullpath"]
-	path = metamodule-nullpath
-	url = https://github.com/Ericxgao/metamodule-nullpath
+[submodule "NullPath"]
+	path = NullPath
+	url = https://github.com/Ericxgao/NullPath
