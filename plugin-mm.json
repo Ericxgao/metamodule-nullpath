@@ -1,0 +1,28 @@
+{
+    "MetaModulePluginMaintainer": "oksami",
+    "MetaModulePluginMaintainerEmail": "itsoksami@gmail.com",
+    "MetaModulePluginMaintainerUrl": "https://github.com/Ericxgao/metamodule-nullpath",
+    "MetaModuleDescription": "NullPath for MetaModule",
+    "MetaModuleIncludedModules": [
+        {
+            "slug": "switch18",
+            "name": "Expand"
+        },
+        {
+            "slug": "switch81",
+            "name": "Collapse"
+        },
+        {
+            "slug": "funcgen",
+            "name": "Cascade"
+        },
+        {
+            "slug": "supersaw",
+            "name": "Turbulence"
+        },
+        {
+            "slug": "randrouter",
+            "name": "Entangle"
+        }
+    ]
+}
